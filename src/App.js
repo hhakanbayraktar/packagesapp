@@ -8,10 +8,10 @@ import ModalExample from './packages/ModalExample';
 function App() {
   return (
     <div className="App">
-    <ModalExample/>
-    <Toast/>
-    <Icons/>
-    <Counter/>
+      <ModalExample/>
+      <Toast/>
+      <Icons/>
+      <Counter/>
     </div>
   );
 }
