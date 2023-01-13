@@ -25,8 +25,7 @@ function Counter() {
           decimal=","
           prefix="₺"
           onEnd={() => console.log('Ended! 👏')}
-          onStart={() => console.log('Started! 💨')}
-        >
+          onStart={() => console.log('Started! 💨')}>
         </CountUp></div>
       </div>
       <div className="buttons">
